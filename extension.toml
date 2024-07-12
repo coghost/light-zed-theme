@@ -1,0 +1,7 @@
+id = "hex-light-theme"
+name = "Hex Light Theme"
+version = "0.0.1"
+schema_version = 1
+authors = ["Hex <lihex.go@gmail.com>"]
+description = "Light theme with syntax highlighting for Latte and Solarized"
+repository = "https://github.com/coghost/light-zed-theme"
