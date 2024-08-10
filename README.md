@@ -1,5 +1,7 @@
 # light-zed-theme
+
 light theme for zed with syntax highlight, retained all original styles, only syntax highlighting was applied.
+
 <h3 align="center">
 	Syntax Highlighting for <a href="https://zed.dev/">Zed</a>
 </h3>
@@ -11,11 +13,19 @@ light theme for zed with syntax highlight, retained all original styles, only sy
 
 ## Previews
 
+### Light themes
+
 ![Light Theme](./assets/light.png)
 
 ![Latte Theme](./assets/latte.png)
 
 ![Solarized Theme](./assets/solarized.png)
+
+### Dark themes
+
+![Ayu Mirage Theme](./assets/ayu-mirage.png)
+
+![Itg Dark Gold](./assets/itg-dark-gold.png)
 
 ## Installation
 
@@ -34,3 +44,5 @@ light theme for zed with syntax highlight, retained all original styles, only sy
 - [Light Theme](https://github.com/onecrayon/theme-quietlight-vsc/blob/master/themes/QuietLight.json)
 - [Latte Theme](https://github.com/catppuccin/zed)
 - [Solarized Theme](https://github.com/zed-industries/zed/blob/main/assets/themes/solarized/solarized.json)
+- [Ayu Mirage Theme](https://github.com/zed-industries/zed/blob/main/assets/themes/ayu/ayu.json)
+- [better-itg-flat-dark-vscode-theme](https://github.com/surmon-china/better-itg-flat-dark-vscode-theme/blob/master/themes/better.itg.flat.dark.gold.json)
