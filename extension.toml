@@ -1,6 +1,6 @@
 id = "hex-light-theme"
 name = "Hex Light Theme"
-version = "0.0.2"
+version = "0.0.3"
 schema_version = 1
 authors = ["Hex <lihex.go@gmail.com>"]
 description = "Theme with syntax highlighting for Ayu, Latte and Solarized"
